@@ -5,6 +5,5 @@
 /_/  /_/ /_/\___/_/|_|\____/  
                           1337    
 
- Conversion d'une string en langage 1337
-
+Conversion d'une string en langage 1337
  
